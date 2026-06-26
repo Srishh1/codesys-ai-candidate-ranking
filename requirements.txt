@@ -1,0 +1,7 @@
+# Python standard library only — no pip installs required
+# stdlib: json, csv, argparse, math, re, datetime, collections, sys, os
+
+# If you want tqdm progress bars (optional), install:
+# pip install tqdm
+
+# Python >= 3.10 required (uses match/case type hints like tuple[bool, str])
