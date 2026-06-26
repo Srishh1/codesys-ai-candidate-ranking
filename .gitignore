@@ -11,5 +11,3 @@ __pycache__/
 # Ignore the entire competition dataset
 [PUB] India_runs_data_and_ai_challenge
 
-# Ignore generated Excel output
-submission_final.xlsx
